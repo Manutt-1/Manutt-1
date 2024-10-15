@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Manutt-1/Manutt-1/blob/main/snake.yml" alt="Snake animation" />
 
 ###
