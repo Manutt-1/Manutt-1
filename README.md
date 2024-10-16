@@ -4,7 +4,7 @@
 <p>
 eu sou Manoel Gonçalves, um Desenvolvedor Full Stack & UX/UI Designer com 1 ano de experiência no setor de tecnologia. Minha carreira começou na Typed.io, onde fui responsável por inovações tecnológicas significativas e pelo desenvolvimento de soluções de software.
 
-Possuo habilidades incluem dominio em JavaScript, TypeScript, HTML, CSS e SQL. Também tenho experiência com frameworks como React, Angular, Node.js e Spring.
+Minhas habilidades incluem dominio em JavaScript, TypeScript, HTML, CSS e SQL. Também tenho experiência com frameworks como React, Angular, Node.js e Spring.
 
 Me vejo como uma pessoa que gosta de solucionar problemas. Entusiasta em estudar e atuar com novas tecnologias.
 
@@ -42,9 +42,11 @@ Me vejo como uma pessoa que gosta de solucionar problemas. Entusiasta em estudar
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=manutt-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manutt-1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
+
+###
 
 
 ###
