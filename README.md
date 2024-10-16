@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/Manutt-1/Manutt-1/blob/main/.github./workflows/snake.yml" alt="Snake animation" />
+![snake gif](https://github.com/Manutt-1/Manutt-1/blob/output/github-contribution-grid-snake.gif)
 
 ###
